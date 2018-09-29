@@ -15,3 +15,5 @@ Git training
 bla bla, on site, on server...
 
 ## How To Contribute
+
+2018 Git.Training
