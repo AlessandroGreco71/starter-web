@@ -2,6 +2,7 @@
 
 This is a simple website test to use Git and GitHub together...
 Adding a line for rebasing test...
+Adding more changes from 'myfeature' branch
 
 ## Introduction
 
