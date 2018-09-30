@@ -16,4 +16,6 @@ bla bla, on site, on server...
 
 ## How To Contribute
 
+Fork this repo...
+
 2018 Git.Training
